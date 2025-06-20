@@ -1,7 +1,7 @@
 
 # Projet Finale Robotique 🔥🤖
 
-Este proyecto implementa un sistema robótico basado en ROS 2 y una Raspberry Pi, que permite la conexión con una ESP32 para control de motores, activación de una bomba, transmisión de video desde una cámara USB y detección e inferencia de fuego mediante un modelo YOLOv5.
+Este proyecto implementa un sistema robótico de carrito bombero basado en ROS 2 y una Raspberry Pi, que permite la conexión con una ESP32 para control de motores, activación de una bomba, transmisión de video desde una cámara USB y detección e inferencia de fuego mediante un modelo YOLOv5.
 
 ---
 
