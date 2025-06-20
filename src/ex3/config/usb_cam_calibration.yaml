@@ -1,0 +1,5 @@
+usb_cam_node:
+  ros__parameters:
+    image_width: 640
+    image_height: 480
+    camera_info_url: "package://ex3/config/ost.yaml"
